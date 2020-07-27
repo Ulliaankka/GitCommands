@@ -1,0 +1,19 @@
+git config --global user.name blabla
+git config --global user.email blabal@bla
+git init
+git status
+git add
+git commit
+git log
+git checkout
+git branch
+git push
+git pull
+git merge
+git clone
+git revert
+git reset
+git rebase
+git cherry-pick
+git stash
+.gitignore нужен для скрытия файлов и папок от системы контроля версий Git
